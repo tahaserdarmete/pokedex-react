@@ -20,5 +20,5 @@ The cards are divided into two groups, and the experience values ​​of each g
 - JavaScript
 - CSS
 
-## 🖼️ Screenshot
+## 🖼️ ScreenShot
 <img src="pokedex.gif"/>
